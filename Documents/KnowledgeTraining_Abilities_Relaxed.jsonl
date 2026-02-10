@@ -1,0 +1,1493 @@
+{"label": "TRAINING", "pattern": [{"LOWER": "pmp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "capm"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "prince2"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "csm"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "psm"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "safe"}, {"LOWER": "agilist"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "lean"}, {"LOWER": "six"}, {"LOWER": "sigma"}, {"LOWER": "green"}, {"LOWER": "belt"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "lean"}, {"LOWER": "six"}, {"LOWER": "sigma"}, {"LOWER": "black"}, {"LOWER": "belt"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "itil"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "togaf"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "aws"}, {"LOWER": "certified"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "aws"}, {"LOWER": "certified"}, {"LOWER": "developer"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "aws"}, {"LOWER": "cloud"}, {"LOWER": "practitioner"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "certified"}, {"LOWER": "azure"}, {"LOWER": "fundamentals"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "azure"}, {"LOWER": "administrator"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "digital"}, {"LOWER": "leader"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "google"}, {"LOWER": "professional"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cisco"}, {"LOWER": "certified"}, {"LOWER": "network"}, {"LOWER": "associate"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccna"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccnp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "comptia"}, {"LOWER": "a+"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "comptia"}, {"LOWER": "security+"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "comptia"}, {"LOWER": "network+"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cissp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cism"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ceh"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "certified"}, {"LOWER": "ethical"}, {"LOWER": "hacker"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "oracle"}, {"LOWER": "certified"}, {"LOWER": "professional"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "java"}, {"LOWER": "se"}, {"LOWER": "programmer"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "salesforce"}, {"LOWER": "administrator"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tensorflow"}, {"LOWER": "developer"}, {"LOWER": "certificate"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ibm"}, {"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "professional"}, {"LOWER": "certificate"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "google"}, {"LOWER": "data"}, {"LOWER": "analytics"}, {"LOWER": "certificate"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tableau"}, {"LOWER": "desktop"}, {"LOWER": "specialist"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "osha"}, {"LOWER": "10-hour"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "osha"}, {"LOWER": "30-hour"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "first"}, {"LOWER": "aid"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cpr"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "aed"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "bls"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "acls"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "food"}, {"LOWER": "safety"}, {"LOWER": "handler"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "haccp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "whmis"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "fire"}, {"LOWER": "safety"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "google"}, {"LOWER": "analytics"}, {"LOWER": "individual"}, {"LOWER": "qualification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hubspot"}, {"LOWER": "content"}, {"LOWER": "marketing"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "facebook"}, {"LOWER": "blueprint"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "adobe"}, {"LOWER": "certified"}, {"LOWER": "expert"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gdpr"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ccpa"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "hipaa"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sox"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sarbanes-oxley"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ferpa"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "pci-dss"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "kyc"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gaap"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ifrs"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "taxation"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "budgeting"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "forecasting"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "gmp"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "sdlc"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "microservices"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "algorithms"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "tcp/ip"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "dns"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "http/https"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "encryption"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "module"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "workshop"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "seminar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "course"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "bootcamp"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "training"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "certification"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "program"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "class"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "webinar"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "curriculum"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "summit"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "conference"}]}
+{"label": "TRAINING", "pattern": [{"LOWER": "iot"}, {"LOWER": "module"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "knowledge"}, {"LOWER": "of"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "understanding"}, {"LOWER": "of"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "familiarity"}, {"LOWER": "with"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "proficiency"}, {"LOWER": "in"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "expertise"}, {"LOWER": "in"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "command"}, {"LOWER": "of"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "experience"}, {"LOWER": "with"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "grasp"}, {"LOWER": "of"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "sarbanes-oxley"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "taxation"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "budgeting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "forecasting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "microservices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "algorithms"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "encryption"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "blockchain"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "mastery"}, {"LOWER": "of"}, {"LOWER": "iot"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "gdpr"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "ccpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "hipaa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "sox"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "ferpa"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "pci-dss"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "copyright"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "intellectual"}, {"LOWER": "property"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "employment"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "contract"}, {"LOWER": "law"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "corporate"}, {"LOWER": "governance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "compliance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "anti-money"}, {"LOWER": "laundering"}, {"LOWER": "(aml)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "kyc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "gaap"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "ifrs"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "financial"}, {"LOWER": "modeling"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "risk"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "auditing"}, {"LOWER": "standards"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "payroll"}, {"LOWER": "processing"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "cost"}, {"LOWER": "accounting"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "iso"}, {"LOWER": "9001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "iso"}, {"LOWER": "14001"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "gmp"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "good"}, {"LOWER": "manufacturing"}, {"LOWER": "practices"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "logistics"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "inventory"}, {"LOWER": "management"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "root"}, {"LOWER": "cause"}, {"LOWER": "analysis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "sdlc"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "life"}, {"LOWER": "cycle"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "agile"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "waterfall"}, {"LOWER": "methodology"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "devops"}, {"LOWER": "culture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "ci/cd"}, {"LOWER": "pipelines"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "object-oriented"}, {"LOWER": "programming"}, {"LOWER": "(oop)"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "data"}, {"LOWER": "structures"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "network"}, {"LOWER": "protocols"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "tcp/ip"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "dns"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "http/https"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "restful"}, {"LOWER": "apis"}]}
+{"label": "KNOWLEDGE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "principles"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "lead"}, {"LOWER": "cross-functional"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "manage"}, {"LOWER": "stakeholders"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "drive"}, {"LOWER": "strategic"}, {"LOWER": "initiatives"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "mentor"}, {"LOWER": "junior"}, {"LOWER": "team"}, {"LOWER": "members"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "facilitate"}, {"LOWER": "workshops"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "negotiate"}, {"LOWER": "complex"}, {"LOWER": "contracts"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "manage"}, {"LOWER": "budgets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "optimize"}, {"LOWER": "processes"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "spearhead"}, {"LOWER": "projects"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "build"}, {"LOWER": "relationships"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "work"}, {"LOWER": "under"}, {"LOWER": "pressure"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "meet"}, {"LOWER": "tight"}, {"LOWER": "deadlines"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "multitask"}, {"LOWER": "effectively"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "adapt"}, {"LOWER": "to"}, {"LOWER": "changing"}, {"LOWER": "priorities"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "work"}, {"LOWER": "independently"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "collaborate"}, {"LOWER": "with"}, {"LOWER": "remote"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "solve"}, {"LOWER": "complex"}, {"LOWER": "problems"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "think"}, {"LOWER": "critically"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "communicate"}, {"LOWER": "complex"}, {"LOWER": "ideas"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "analyze"}, {"LOWER": "large"}, {"LOWER": "datasets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "interpret"}, {"LOWER": "financial"}, {"LOWER": "reports"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "troubleshoot"}, {"LOWER": "technical"}, {"LOWER": "issues"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "operate"}, {"LOWER": "heavy"}, {"LOWER": "machinery"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "maintain"}, {"LOWER": "detailed"}, {"LOWER": "records"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "follow"}, {"LOWER": "safety"}, {"LOWER": "protocols"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "lift"}, {"LOWER": "50+"}, {"LOWER": "lbs"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "travel"}, {"LOWER": "internationally"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "lead"}, {"LOWER": "cross-functional"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "manage"}, {"LOWER": "stakeholders"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "drive"}, {"LOWER": "strategic"}, {"LOWER": "initiatives"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "mentor"}, {"LOWER": "junior"}, {"LOWER": "team"}, {"LOWER": "members"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "facilitate"}, {"LOWER": "workshops"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "negotiate"}, {"LOWER": "complex"}, {"LOWER": "contracts"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "manage"}, {"LOWER": "budgets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "optimize"}, {"LOWER": "processes"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "spearhead"}, {"LOWER": "projects"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "build"}, {"LOWER": "relationships"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "work"}, {"LOWER": "under"}, {"LOWER": "pressure"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "meet"}, {"LOWER": "tight"}, {"LOWER": "deadlines"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "multitask"}, {"LOWER": "effectively"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "adapt"}, {"LOWER": "to"}, {"LOWER": "changing"}, {"LOWER": "priorities"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "work"}, {"LOWER": "independently"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "collaborate"}, {"LOWER": "with"}, {"LOWER": "remote"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "solve"}, {"LOWER": "complex"}, {"LOWER": "problems"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "think"}, {"LOWER": "critically"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "communicate"}, {"LOWER": "complex"}, {"LOWER": "ideas"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "analyze"}, {"LOWER": "large"}, {"LOWER": "datasets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "interpret"}, {"LOWER": "financial"}, {"LOWER": "reports"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "troubleshoot"}, {"LOWER": "technical"}, {"LOWER": "issues"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "operate"}, {"LOWER": "heavy"}, {"LOWER": "machinery"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "maintain"}, {"LOWER": "detailed"}, {"LOWER": "records"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "follow"}, {"LOWER": "safety"}, {"LOWER": "protocols"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "lift"}, {"LOWER": "50+"}, {"LOWER": "lbs"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capable"}, {"LOWER": "of"}, {"LOWER": "travel"}, {"LOWER": "internationally"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "lead"}, {"LOWER": "cross-functional"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "manage"}, {"LOWER": "stakeholders"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "drive"}, {"LOWER": "strategic"}, {"LOWER": "initiatives"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "mentor"}, {"LOWER": "junior"}, {"LOWER": "team"}, {"LOWER": "members"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "facilitate"}, {"LOWER": "workshops"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "negotiate"}, {"LOWER": "complex"}, {"LOWER": "contracts"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "manage"}, {"LOWER": "budgets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "optimize"}, {"LOWER": "processes"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "spearhead"}, {"LOWER": "projects"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "build"}, {"LOWER": "relationships"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "work"}, {"LOWER": "under"}, {"LOWER": "pressure"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "meet"}, {"LOWER": "tight"}, {"LOWER": "deadlines"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "multitask"}, {"LOWER": "effectively"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "adapt"}, {"LOWER": "to"}, {"LOWER": "changing"}, {"LOWER": "priorities"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "work"}, {"LOWER": "independently"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "collaborate"}, {"LOWER": "with"}, {"LOWER": "remote"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "solve"}, {"LOWER": "complex"}, {"LOWER": "problems"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "think"}, {"LOWER": "critically"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "communicate"}, {"LOWER": "complex"}, {"LOWER": "ideas"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "analyze"}, {"LOWER": "large"}, {"LOWER": "datasets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "interpret"}, {"LOWER": "financial"}, {"LOWER": "reports"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "troubleshoot"}, {"LOWER": "technical"}, {"LOWER": "issues"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "operate"}, {"LOWER": "heavy"}, {"LOWER": "machinery"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "maintain"}, {"LOWER": "detailed"}, {"LOWER": "records"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "follow"}, {"LOWER": "safety"}, {"LOWER": "protocols"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "lift"}, {"LOWER": "50+"}, {"LOWER": "lbs"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "capacity"}, {"LOWER": "to"}, {"LOWER": "travel"}, {"LOWER": "internationally"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "lead"}, {"LOWER": "cross-functional"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "manage"}, {"LOWER": "stakeholders"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "drive"}, {"LOWER": "strategic"}, {"LOWER": "initiatives"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "mentor"}, {"LOWER": "junior"}, {"LOWER": "team"}, {"LOWER": "members"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "facilitate"}, {"LOWER": "workshops"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "negotiate"}, {"LOWER": "complex"}, {"LOWER": "contracts"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "manage"}, {"LOWER": "budgets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "optimize"}, {"LOWER": "processes"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "spearhead"}, {"LOWER": "projects"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "build"}, {"LOWER": "relationships"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "work"}, {"LOWER": "under"}, {"LOWER": "pressure"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "meet"}, {"LOWER": "tight"}, {"LOWER": "deadlines"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "multitask"}, {"LOWER": "effectively"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "adapt"}, {"LOWER": "to"}, {"LOWER": "changing"}, {"LOWER": "priorities"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "work"}, {"LOWER": "independently"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "collaborate"}, {"LOWER": "with"}, {"LOWER": "remote"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "solve"}, {"LOWER": "complex"}, {"LOWER": "problems"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "think"}, {"LOWER": "critically"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "communicate"}, {"LOWER": "complex"}, {"LOWER": "ideas"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "analyze"}, {"LOWER": "large"}, {"LOWER": "datasets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "interpret"}, {"LOWER": "financial"}, {"LOWER": "reports"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "troubleshoot"}, {"LOWER": "technical"}, {"LOWER": "issues"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "operate"}, {"LOWER": "heavy"}, {"LOWER": "machinery"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "maintain"}, {"LOWER": "detailed"}, {"LOWER": "records"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "follow"}, {"LOWER": "safety"}, {"LOWER": "protocols"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "lift"}, {"LOWER": "50+"}, {"LOWER": "lbs"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "demonstrated"}, {"LOWER": "ability"}, {"LOWER": "to"}, {"LOWER": "travel"}, {"LOWER": "internationally"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "lead"}, {"LOWER": "cross-functional"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "manage"}, {"LOWER": "stakeholders"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "drive"}, {"LOWER": "strategic"}, {"LOWER": "initiatives"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "mentor"}, {"LOWER": "junior"}, {"LOWER": "team"}, {"LOWER": "members"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "facilitate"}, {"LOWER": "workshops"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "negotiate"}, {"LOWER": "complex"}, {"LOWER": "contracts"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "manage"}, {"LOWER": "budgets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "optimize"}, {"LOWER": "processes"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "spearhead"}, {"LOWER": "projects"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "build"}, {"LOWER": "relationships"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "work"}, {"LOWER": "under"}, {"LOWER": "pressure"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "meet"}, {"LOWER": "tight"}, {"LOWER": "deadlines"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "multitask"}, {"LOWER": "effectively"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "adapt"}, {"LOWER": "to"}, {"LOWER": "changing"}, {"LOWER": "priorities"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "work"}, {"LOWER": "independently"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "collaborate"}, {"LOWER": "with"}, {"LOWER": "remote"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "solve"}, {"LOWER": "complex"}, {"LOWER": "problems"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "think"}, {"LOWER": "critically"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "communicate"}, {"LOWER": "complex"}, {"LOWER": "ideas"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "analyze"}, {"LOWER": "large"}, {"LOWER": "datasets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "interpret"}, {"LOWER": "financial"}, {"LOWER": "reports"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "troubleshoot"}, {"LOWER": "technical"}, {"LOWER": "issues"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "operate"}, {"LOWER": "heavy"}, {"LOWER": "machinery"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "maintain"}, {"LOWER": "detailed"}, {"LOWER": "records"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "follow"}, {"LOWER": "safety"}, {"LOWER": "protocols"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "lift"}, {"LOWER": "50+"}, {"LOWER": "lbs"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "proven"}, {"LOWER": "track"}, {"LOWER": "record"}, {"LOWER": "of"}, {"LOWER": "travel"}, {"LOWER": "internationally"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "lead"}, {"LOWER": "cross-functional"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "manage"}, {"LOWER": "stakeholders"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "drive"}, {"LOWER": "strategic"}, {"LOWER": "initiatives"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "mentor"}, {"LOWER": "junior"}, {"LOWER": "team"}, {"LOWER": "members"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "facilitate"}, {"LOWER": "workshops"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "negotiate"}, {"LOWER": "complex"}, {"LOWER": "contracts"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "manage"}, {"LOWER": "budgets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "optimize"}, {"LOWER": "processes"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "spearhead"}, {"LOWER": "projects"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "build"}, {"LOWER": "relationships"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "work"}, {"LOWER": "under"}, {"LOWER": "pressure"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "meet"}, {"LOWER": "tight"}, {"LOWER": "deadlines"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "multitask"}, {"LOWER": "effectively"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "adapt"}, {"LOWER": "to"}, {"LOWER": "changing"}, {"LOWER": "priorities"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "work"}, {"LOWER": "independently"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "collaborate"}, {"LOWER": "with"}, {"LOWER": "remote"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "solve"}, {"LOWER": "complex"}, {"LOWER": "problems"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "think"}, {"LOWER": "critically"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "communicate"}, {"LOWER": "complex"}, {"LOWER": "ideas"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "analyze"}, {"LOWER": "large"}, {"LOWER": "datasets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "interpret"}, {"LOWER": "financial"}, {"LOWER": "reports"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "troubleshoot"}, {"LOWER": "technical"}, {"LOWER": "issues"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "operate"}, {"LOWER": "heavy"}, {"LOWER": "machinery"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "maintain"}, {"LOWER": "detailed"}, {"LOWER": "records"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "follow"}, {"LOWER": "safety"}, {"LOWER": "protocols"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "lift"}, {"LOWER": "50+"}, {"LOWER": "lbs"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "aptitude"}, {"LOWER": "for"}, {"LOWER": "travel"}, {"LOWER": "internationally"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "lead"}, {"LOWER": "cross-functional"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "manage"}, {"LOWER": "stakeholders"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "drive"}, {"LOWER": "strategic"}, {"LOWER": "initiatives"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "mentor"}, {"LOWER": "junior"}, {"LOWER": "team"}, {"LOWER": "members"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "facilitate"}, {"LOWER": "workshops"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "negotiate"}, {"LOWER": "complex"}, {"LOWER": "contracts"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "manage"}, {"LOWER": "budgets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "optimize"}, {"LOWER": "processes"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "spearhead"}, {"LOWER": "projects"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "build"}, {"LOWER": "relationships"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "work"}, {"LOWER": "under"}, {"LOWER": "pressure"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "meet"}, {"LOWER": "tight"}, {"LOWER": "deadlines"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "multitask"}, {"LOWER": "effectively"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "adapt"}, {"LOWER": "to"}, {"LOWER": "changing"}, {"LOWER": "priorities"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "work"}, {"LOWER": "independently"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "collaborate"}, {"LOWER": "with"}, {"LOWER": "remote"}, {"LOWER": "teams"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "solve"}, {"LOWER": "complex"}, {"LOWER": "problems"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "think"}, {"LOWER": "critically"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "communicate"}, {"LOWER": "complex"}, {"LOWER": "ideas"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "analyze"}, {"LOWER": "large"}, {"LOWER": "datasets"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "interpret"}, {"LOWER": "financial"}, {"LOWER": "reports"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "troubleshoot"}, {"LOWER": "technical"}, {"LOWER": "issues"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "operate"}, {"LOWER": "heavy"}, {"LOWER": "machinery"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "maintain"}, {"LOWER": "detailed"}, {"LOWER": "records"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "follow"}, {"LOWER": "safety"}, {"LOWER": "protocols"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "lift"}, {"LOWER": "50+"}, {"LOWER": "lbs"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "skilled"}, {"LOWER": "in"}, {"LOWER": "travel"}, {"LOWER": "internationally"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "critical"}, {"LOWER": "thinking"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "strategic"}, {"LOWER": "planning"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "emotional"}, {"LOWER": "intelligence"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "active"}, {"LOWER": "listening"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "problem"}, {"LOWER": "solving"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "time"}, {"LOWER": "management"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "attention"}, {"LOWER": "to"}, {"LOWER": "detail"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "interpersonal"}, {"LOWER": "skills"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "communication"}, {"LOWER": "skills"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "organizational"}, {"LOWER": "skills"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "analytical"}, {"LOWER": "skills"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "creative"}, {"LOWER": "thinking"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "decision"}, {"LOWER": "making"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "conflict"}, {"LOWER": "resolution"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "flexibility"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "resilience"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "self-motivation"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "public"}, {"LOWER": "speaking"}]}
+{"label": "ABILITY", "pattern": [{"LOWER": "writing"}, {"LOWER": "skills"}]}

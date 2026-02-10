@@ -1,0 +1,55 @@
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelor"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelors"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bsc"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bs"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ba"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.s."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b"}, {"LOWER": "."}, {"LOWER": "s"}, {"LOWER": "."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.a."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b"}, {"LOWER": "."}, {"LOWER": "a"}, {"LOWER": "."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.s"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b"}, {"LOWER": "."}, {"LOWER": "s"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "master"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "masters"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "msc"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ms"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "mba"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.s."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m"}, {"LOWER": "."}, {"LOWER": "s"}, {"LOWER": "."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.b.a."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m"}, {"LOWER": "."}, {"LOWER": "b"}, {"LOWER": "."}, {"LOWER": "a"}, {"LOWER": "."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "associate"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "associates"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "aas"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "a.a.s."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "a"}, {"LOWER": "."}, {"LOWER": "a"}, {"LOWER": "."}, {"LOWER": "s"}, {"LOWER": "."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "a.s."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "a"}, {"LOWER": "."}, {"LOWER": "s"}, {"LOWER": "."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "phd"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ph.d."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ph"}, {"LOWER": "."}, {"LOWER": "d"}, {"LOWER": "."}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "doctorate"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "high school"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ged"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "secondary school"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "diploma"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "certificate"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "certification"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "industrial"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "electronics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "telecommunications"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "electrical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"IS_ALPHA": true, "IS_TITLE": true}, {"LOWER": "university"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "university"}, {"LOWER": "of"}, {"IS_ALPHA": true, "IS_TITLE": true}]}
+{"label": "EDUCATION", "pattern": [{"IS_ALPHA": true, "IS_TITLE": true}, {"LOWER": "college"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "college"}, {"LOWER": "of"}, {"IS_ALPHA": true, "IS_TITLE": true}]}
+{"label": "EDUCATION", "pattern": [{"IS_ALPHA": true, "IS_TITLE": true}, {"LOWER": "institute"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "institute"}, {"LOWER": "of"}, {"IS_ALPHA": true, "IS_TITLE": true}]}
+{"label": "EDUCATION", "pattern": [{"IS_ALPHA": true, "IS_TITLE": true}, {"LOWER": "academy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "academy"}, {"LOWER": "of"}, {"IS_ALPHA": true, "IS_TITLE": true}]}
+{"label": "EDUCATION", "pattern": [{"IS_ALPHA": true, "IS_TITLE": true}, {"LOWER": "polytechnic"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "polytechnic"}, {"LOWER": "of"}, {"IS_ALPHA": true, "IS_TITLE": true}]}
+{"label": "EDUCATION", "pattern": [{"IS_ALPHA": true, "IS_TITLE": true}, {"LOWER": "school"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "school"}, {"LOWER": "of"}, {"IS_ALPHA": true, "IS_TITLE": true}]}

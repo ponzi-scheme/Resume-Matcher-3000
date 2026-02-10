@@ -1,0 +1,626 @@
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelor"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelors"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelor's"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bs"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bsc"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.sc"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ba"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.a"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "basc"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.a.sc"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "beng"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.eng"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.sc"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.a"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.a.sc"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "b.eng"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "master"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "masters"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "master's"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ms"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "msc"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.sc"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ma"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.a"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "mba"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.b.a"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "meng"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.eng"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "mph"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.sc"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.a"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "mba"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.b.a"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.eng"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "mph"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "phd"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ph.d"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "doctorate"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "doctor"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "dr"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "ph.d"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "md"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.d"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "jd"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "j.d"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "pharmd"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "md"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "m.d"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "jd"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "j.d"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "pharmd"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "diploma"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "dip"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "advanced diploma"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "certificate"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "cert"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "certification"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "associate"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "associates"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "associate's"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "as"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "aa"}, {"LOWER": {"IN": ["of", "in"]}, "OP": "?"}, {"LOWER": "applied", "OP": "?"}, {"LOWER": {"IN": ["science", "arts", "business", "technology", "engineering", "education", "philosophy", "medicine", "law", "nursing", "commerce", "fine arts"]}}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cybersecurity"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cybersecurity"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cybersecurity"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cybersecurity"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cybersecurity"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cybersecurity"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "development"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "development"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "development"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "development"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "development"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "development"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "animation"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "animation"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "animation"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "animation"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "animation"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "animation"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "devops"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "devops"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "devops"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "devops"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "devops"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "devops"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechatronics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechatronics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechatronics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechatronics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechatronics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mechatronics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biomedical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biomedical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biomedical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biomedical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biomedical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biomedical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "aerospace"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "aerospace"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "aerospace"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "aerospace"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "aerospace"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "aerospace"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "robotics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "robotics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "robotics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "robotics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "robotics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "robotics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "automotive"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "automotive"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "automotive"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "automotive"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "automotive"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "automotive"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "petroleum"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "petroleum"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "petroleum"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "petroleum"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "petroleum"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "petroleum"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "marketing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "marketing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "marketing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "marketing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "marketing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "marketing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "accounting"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "accounting"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "accounting"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "accounting"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "accounting"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "accounting"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "finance"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "finance"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "finance"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "finance"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "finance"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "finance"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "human"}, {"LOWER": "resources"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "human"}, {"LOWER": "resources"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "human"}, {"LOWER": "resources"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "human"}, {"LOWER": "resources"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "human"}, {"LOWER": "resources"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "human"}, {"LOWER": "resources"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "economics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "economics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "economics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "economics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "economics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "economics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "business"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "business"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "business"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "business"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "business"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "business"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "entrepreneurship"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "entrepreneurship"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "entrepreneurship"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "entrepreneurship"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "entrepreneurship"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "entrepreneurship"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "commerce"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "commerce"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "commerce"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "commerce"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "commerce"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "commerce"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "logistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "logistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "logistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "logistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "logistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "logistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "hospitality"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "hospitality"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "hospitality"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "hospitality"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "hospitality"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "hospitality"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "tourism"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "tourism"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "tourism"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "tourism"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "tourism"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "tourism"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "event"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "event"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "event"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "event"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "event"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "event"}, {"LOWER": "management"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "culinary"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "culinary"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "culinary"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "culinary"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "culinary"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "culinary"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nursing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nursing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nursing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nursing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nursing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nursing"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "health"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "health"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "health"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "health"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "health"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "health"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "pharmacy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "pharmacy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "pharmacy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "pharmacy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "pharmacy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "pharmacy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "kinesiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "kinesiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "kinesiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "kinesiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "kinesiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "kinesiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "health"}, {"LOWER": "sciences"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "health"}, {"LOWER": "sciences"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "health"}, {"LOWER": "sciences"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "health"}, {"LOWER": "sciences"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "health"}, {"LOWER": "sciences"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "health"}, {"LOWER": "sciences"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "chemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "physics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "physics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "physics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "physics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "physics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "physics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mathematics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mathematics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mathematics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mathematics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mathematics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "mathematics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "statistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "statistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "statistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "statistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "statistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "statistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "geology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "geology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "geology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "geology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "geology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "geology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "environmental"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "environmental"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "environmental"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "environmental"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "environmental"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "environmental"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biochemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biochemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biochemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biochemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biochemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "biochemistry"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "microbiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "microbiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "microbiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "microbiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "microbiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "microbiology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "genetics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "genetics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "genetics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "genetics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "genetics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "genetics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "neuroscience"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "neuroscience"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "neuroscience"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "neuroscience"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "neuroscience"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "neuroscience"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "psychology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "psychology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "psychology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "psychology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "psychology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "psychology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "forensic"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "forensic"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "forensic"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "forensic"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "forensic"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "forensic"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nutrition"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nutrition"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nutrition"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nutrition"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nutrition"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "nutrition"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "veterinary"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "veterinary"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "veterinary"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "veterinary"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "veterinary"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "veterinary"}, {"LOWER": "medicine"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "sociology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "sociology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "sociology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "sociology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "sociology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "sociology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "political"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "political"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "political"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "political"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "political"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "political"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "international"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "history"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "history"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "history"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "history"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "history"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "history"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "philosophy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "philosophy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "philosophy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "philosophy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "philosophy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "philosophy"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "english"}, {"LOWER": "literature"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "english"}, {"LOWER": "literature"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "english"}, {"LOWER": "literature"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "english"}, {"LOWER": "literature"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "english"}, {"LOWER": "literature"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "english"}, {"LOWER": "literature"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "linguistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "linguistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "linguistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "linguistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "linguistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "linguistics"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "anthropology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "anthropology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "anthropology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "anthropology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "anthropology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "anthropology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "criminology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "criminology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "criminology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "criminology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "criminology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "criminology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "social"}, {"LOWER": "work"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "social"}, {"LOWER": "work"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "social"}, {"LOWER": "work"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "social"}, {"LOWER": "work"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "social"}, {"LOWER": "work"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "social"}, {"LOWER": "work"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "special"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "special"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "special"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "special"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "special"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "special"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "early"}, {"LOWER": "childhood"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "early"}, {"LOWER": "childhood"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "early"}, {"LOWER": "childhood"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "early"}, {"LOWER": "childhood"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "early"}, {"LOWER": "childhood"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "early"}, {"LOWER": "childhood"}, {"LOWER": "education"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "law"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "law"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "law"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "law"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "law"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "law"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "paralegal"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "paralegal"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "paralegal"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "paralegal"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "paralegal"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "paralegal"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "communications"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "communications"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "communications"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "communications"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "communications"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "communications"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "journalism"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "journalism"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "journalism"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "journalism"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "journalism"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "journalism"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "public"}, {"LOWER": "relations"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "media"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "media"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "media"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "media"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "media"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "media"}, {"LOWER": "studies"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "interior"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "interior"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "interior"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "interior"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "interior"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "interior"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fashion"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fashion"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fashion"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fashion"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fashion"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fashion"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "film"}, {"LOWER": "production"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "film"}, {"LOWER": "production"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "film"}, {"LOWER": "production"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "film"}, {"LOWER": "production"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "film"}, {"LOWER": "production"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "film"}, {"LOWER": "production"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "photography"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "photography"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "photography"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "photography"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "photography"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "photography"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fine"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fine"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fine"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fine"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fine"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "fine"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "music"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "music"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "music"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "music"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "music"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "music"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "theatre"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "theatre"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "theatre"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "theatre"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "theatre"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "theatre"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "architecture"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "architecture"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "architecture"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "architecture"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "architecture"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "architecture"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "urban"}, {"LOWER": "planning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "urban"}, {"LOWER": "planning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "urban"}, {"LOWER": "planning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "urban"}, {"LOWER": "planning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "urban"}, {"LOWER": "planning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "urban"}, {"LOWER": "planning"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "major"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "minor"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "concentration"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "specialization"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "focus"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "design"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "degree"}, {"LOWER": {"IN": ["in", "of"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "design"}]}

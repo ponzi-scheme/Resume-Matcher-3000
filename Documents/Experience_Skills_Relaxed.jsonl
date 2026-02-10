@@ -1,0 +1,699 @@
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "content"}, {"LOWER": "strategist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "customer"}, {"LOWER": "success"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "recruiter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "talent"}, {"LOWER": "acquisition"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "accountant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "auditor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "controller"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "electrician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "plumber"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "mechanic"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "welder"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "machinist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "pharmacist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "clinical"}, {"LOWER": "researcher"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "art"}, {"LOWER": "director"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "copywriter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "journalist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "paralegal"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "attorney"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "lawyer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["senior", "sr", "sr.", "lead", "principal", "ii", "iii", "iv"]}, "OP": "?"}, {"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "content"}, {"LOWER": "strategist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "customer"}, {"LOWER": "success"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "recruiter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "talent"}, {"LOWER": "acquisition"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "accountant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "auditor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "controller"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "electrician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "plumber"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "mechanic"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "welder"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "machinist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "pharmacist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "clinical"}, {"LOWER": "researcher"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "art"}, {"LOWER": "director"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "copywriter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "journalist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "paralegal"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "attorney"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "lawyer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["junior", "jr", "jr.", "entry", "entry-level", "associate", "intern", "graduate"]}, "OP": "?"}, {"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "content"}, {"LOWER": "strategist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "customer"}, {"LOWER": "success"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "recruiter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "talent"}, {"LOWER": "acquisition"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "accountant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "auditor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "controller"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "electrician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "plumber"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "mechanic"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "welder"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "machinist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "pharmacist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "clinical"}, {"LOWER": "researcher"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "art"}, {"LOWER": "director"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "copywriter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "journalist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "paralegal"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "attorney"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "lawyer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["chief", "c-level", "head", "executive"]}, "OP": "?"}, {"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "content"}, {"LOWER": "strategist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "customer"}, {"LOWER": "success"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "recruiter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "talent"}, {"LOWER": "acquisition"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "accountant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "auditor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "controller"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "electrician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "plumber"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "mechanic"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "welder"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "machinist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "pharmacist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "clinical"}, {"LOWER": "researcher"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "art"}, {"LOWER": "director"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "copywriter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "journalist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "paralegal"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "attorney"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "lawyer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["director", "dir"]}, "OP": "?"}, {"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "content"}, {"LOWER": "strategist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "customer"}, {"LOWER": "success"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "recruiter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "talent"}, {"LOWER": "acquisition"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "accountant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "auditor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "controller"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "electrician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "plumber"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "mechanic"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "welder"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "machinist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "pharmacist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "clinical"}, {"LOWER": "researcher"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "art"}, {"LOWER": "director"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "copywriter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "journalist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "paralegal"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "attorney"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "lawyer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["vice president", "vp", "v.p."]}, "OP": "?"}, {"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "content"}, {"LOWER": "strategist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "customer"}, {"LOWER": "success"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "recruiter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "talent"}, {"LOWER": "acquisition"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "accountant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "auditor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "controller"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "electrician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "plumber"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "mechanic"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "welder"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "machinist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "pharmacist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "clinical"}, {"LOWER": "researcher"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "art"}, {"LOWER": "director"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "copywriter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "journalist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "paralegal"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "attorney"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "lawyer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["assistant", "asst"]}, "OP": "?"}, {"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "content"}, {"LOWER": "strategist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "customer"}, {"LOWER": "success"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "recruiter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "talent"}, {"LOWER": "acquisition"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "accountant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "auditor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "controller"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "electrician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "plumber"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "mechanic"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "welder"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "machinist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "pharmacist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "clinical"}, {"LOWER": "researcher"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "art"}, {"LOWER": "director"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "copywriter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "journalist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "paralegal"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "attorney"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "lawyer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": {"IN": ["manager", "mgr", "lead"]}, "OP": "?"}, {"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "content"}, {"LOWER": "strategist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "customer"}, {"LOWER": "success"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "recruiter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "talent"}, {"LOWER": "acquisition"}, {"LOWER": "specialist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "accountant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "auditor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "controller"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "electrician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "plumber"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "mechanic"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "welder"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "machinist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "registered"}, {"LOWER": "nurse"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "pharmacist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "clinical"}, {"LOWER": "researcher"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "art"}, {"LOWER": "director"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "copywriter"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "journalist"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "paralegal"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "attorney"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "lawyer"}]}
+{"label": "JOB_TITLE", "pattern": [{"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "python"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "py"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "java"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "j2ee"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "javascript"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "es6"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "typescript"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ts"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "c++"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "cpp"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "c#"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "csharp"}]}
+{"label": "SKILL", "pattern": [{"LOWER": ".net"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "dotnet"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ruby"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ror"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ruby"}, {"LOWER": "on"}, {"LOWER": "rails"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "php"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "laravel"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "html"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "html5"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "css"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "css3"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "sass"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "less"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "sql"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "mysql"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "postgresql"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "postgres"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "react"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "reactjs"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "react.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "react"}, {"LOWER": "native"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "angular"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "angularjs"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "vue"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "vuejs"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "vue.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "node"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "nodejs"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "node.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "django"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "flask"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "fastapi"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "spring"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "spring"}, {"LOWER": "boot"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "hibernate"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "docker"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "kubernetes"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "k8s"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "containers"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "aws"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "amazon"}, {"LOWER": "web"}, {"LOWER": "services"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ec2"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "lambda"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "s3"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "azure"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "gcp"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "google"}, {"LOWER": "cloud"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "git"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "github"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "gitlab"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "bitbucket"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "jenkins"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "circleci"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "travis"}, {"LOWER": "ci"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "jira"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "confluence"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "tableau"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "power"}, {"LOWER": "bi"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "looker"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "excel"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ms"}, {"LOWER": "excel"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "spreadsheets"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "vlookup"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "photoshop"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "illustrator"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "adobe"}, {"LOWER": "suite"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ml"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "deep"}, {"LOWER": "learning"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ai"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "agile"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "scrum"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "kanban"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "pmp"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "communication"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "public"}, {"LOWER": "speaking"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "presentation"}, {"LOWER": "skills"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "leadership"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "team"}, {"LOWER": "management"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "mentoring"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "problem"}, {"LOWER": "solving"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "critical"}, {"LOWER": "thinking"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "troubleshooting"}]}
